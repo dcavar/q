@@ -4,7 +4,7 @@ This repo contains the code, notes, links, and other material from the reading g
 
 **Quantum Algorithms, Linear Algebra, Deep Learning, Machine Learning, and Natural Language Processing**
 
-Initial meetings started summer 2018 at Indiana University under the lead of [Dr. Damir Cavar]. The goal of this reading group and code repo is to promote the understanding of Quantum Algorithms and Computing, focusing on Machine Learning, in particular for Natural Language Processing and Deep Learning.
+Initial meetings started summer 2018 at [Indiana University](https://www.indiana.edu/) under the lead of [Dr. Damir Cavar]. The goal of this reading group and code repo is to promote the understanding of Quantum Algorithms and Computing, focusing on Machine Learning, in particular for Natural Language Processing and Deep Learning.
 
 The [repo homepage is here](http://damir.cavar.me/q/).
 
