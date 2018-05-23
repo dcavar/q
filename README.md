@@ -22,16 +22,16 @@ Complementary literature:
 - Dan Jurafsky and James H. Martin (2008) [*Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition*](http://www.cs.colorado.edu/~martin/slp.html). Prentice Hall; 2nd edition.  ([3rd ed. draft](https://web.stanford.edu/~jurafsky/slp3/))
 - Philip N. Klein (2013) [*Coding the Matrix: Linear Algebra Through Computer Science Applications*](http://codingthematrix.com/). Newtonian Press.
 
-List of Quantum Computing simulators:
-
-- [Quantiki QC simulators list](https://www.quantiki.org/wiki/list-qc-simulators)
-
-
 
 ## Programming Environments
 
 - The [IBM Q Initiative](https://www.research.ibm.com/ibm-q/) and [Quantum Information Software Kit (QISKit)](https://qiskit.org/)
 - The [Microsoft Quantum Computing pages](https://www.microsoft.com/en-us/quantum/) and the [Microsoft Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit) (Windows, macOS, Linux)
+
+List of Quantum Computing simulators:
+
+- [Quantiki QC simulators list](https://www.quantiki.org/wiki/list-qc-simulators)
+
 
 
 ## Information Sites
