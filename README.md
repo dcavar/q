@@ -4,7 +4,9 @@ This repo contains the code, notes, links, and other material from the reading g
 
 **Quantum Algorithms, Linear Algebra, Deep Learning, Machine Learning, and Natural Language Processing**
 
-Initial meetings started summer 2018 at [Indiana University](https://www.indiana.edu/) under the lead of [Dr. Damir Cavar]. The goal of this reading group and code repo is to promote the understanding of Quantum Algorithms and Computing, focusing on Machine Learning, in particular for Natural Language Processing and Deep Learning.
+Initial meetings started summer 2018 at [Indiana University](https://www.indiana.edu/) in [Dr. Damir Cavar]'s lab.
+The goal of this reading and programming group is to promote the understanding of Quantum Algorithms and Computing,
+focusing on Machine Learning, and in particular for Natural Language Processing and Deep Learning.
 
 The [repo homepage is here](http://damir.cavar.me/q/).
 
@@ -37,6 +39,10 @@ List of Quantum Computing simulators:
 ## Information Sites
 
 - [Quantiki](https://www.quantiki.org/)
+
+A colleague pointed out that there was a workshop in May 2018 in DC with very interesting publications and tutorials linked on their site:
+
+- [Next Step in Quantum Computing: Computer Science's Role](https://cra.org/ccc/events/quantum-computing/#resources)
 
 
 
