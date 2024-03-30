@@ -1,5 +1,13 @@
 # Quantum Computing and Algorithms
 
+Created by [Damir Cavar]
+
+Last change: 2024-03-29 by [Damir Cavar]
+
+
+See for more details: [NLP Lab](https://nlp-lab.org/quantumnlp/)
+
+
 This repo contains the code, notes, links, and other material from the reading group on:
 
 **Quantum Algorithms, Linear Algebra, Deep Learning, Machine Learning, and Natural Language Processing**
@@ -49,6 +57,10 @@ A colleague pointed out that there was a workshop in May 2018 in DC with very in
 ## Team
 
 - [Damir Cavar]
+- Chi Zhang
+
+## Former Team Members
+
 - [Jonathan Fan]
 - [Rob Ludwig]
 - Sai Shruthi Umakanth
