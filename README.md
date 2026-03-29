@@ -1,5 +1,7 @@
 # Quantum Computing and Algorithms
 
+&copy; 2024 by [Damir Cavar](https://damir.cavar.me/)
+
 Created 2024 by [Damir Cavar]
 
 Last change: 2026-03-29 by [Damir Cavar]
